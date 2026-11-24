@@ -1,0 +1,34 @@
+archiv: "portafontium"
+kniha: "drahonuv-ujezd-07"
+nazev: "Drahoňův Újezd 07"
+druh: "matrika"
+farnost: "Drahoňův Újezd"
+roky: "1683–1789"
+obsah: "O 1683–1789 celé fary (Drahoňův Újezd, Prašný Újezd, Zbiroh, Lhotka, Terešov, Sebečice …), chronologicky; do 1763 česky a latinsky (1735 ≈ sn. 64–68, 1738 ≈ 82–83, 1740 ≈ 92–99, 1750 ≈ 142–144, 1757 ≈ 175), 1764–1770 latinsky souvislý text (1764 ≈ 201–206, 1765 ≈ 207–213, 1767 ≈ 220, 1769 ≈ 236, 1770 ≈ 244), od 1771 tabulka (1771 ≈ 253, 1773 ≈ 265, 1777 ≈ 286, 1779 ≈ 297–304, 1780 ≈ 310, 1784–1789 ≈ 340–383); sn. 384–422 (soubory -n) jsou oddíl narozených (1774 ≈ sn. 410); snímek = pořadí snímku na portálu"
+url: "https://www.portafontium.eu/register/soap-pn/drahonuv-ujezd-07"
+poznamka: "zápisy přečtené při práci na rodokmenu (Smolíkové z Prašného Újezda); jen vybrané zápisy, ne celá kniha"
+import:
+  prefix: "drahonuv-ujezd-07"
+ocr:
+- soubor: "ocr-pero.tsv"
+  nastroj: "PERO OCR (pero-ocr.fit.vutbr.cz)"
+  dokument: "5a70afac-c88d-4893-9b4f-b8d9ced96aed"
+  model: "Kurrent (German, Czech)"
+  nastaveni: "rozbor rozložení Handwritten layout, řádky Universal, jazykový model žádný"
+  datum: "2026-11-24"
+  export: "pf-drahonuv-ujezd-07.pagexml.zip"
+  snimky: "1–422"
+  stranek: 422
+  radku: 40242
+  poznamka: "souřadnice v pixelech nahraného obrázku (viz stranky.tsv); text je strojový, nekontrolovaný"
+- soubor: "ocr-pero-czech.tsv"
+  nastroj: "PERO OCR (pero-ocr.fit.vutbr.cz)"
+  dokument: "5a70afac-c88d-4893-9b4f-b8d9ced96aed"
+  model: "Czech Handwritten"
+  nastaveni: "rozbor rozložení Handwritten layout, řádky Universal, jazykový model žádný"
+  datum: "2026-11-24"
+  export: "pf-drahonuv-ujezd-07-ch.pagexml.zip"
+  snimky: "1–422"
+  stranek: 422
+  radku: 40242
+  poznamka: "druhé čtení téhož dokumentu PERO modelem Czech Handwritten; českou část do 1763 čte znatelně lépe než Kurrent, latinskou část hůř; souřadnice v pixelech nahraného obrázku (viz stranky-pero-czech.tsv); text je strojový, nekontrolovaný"
