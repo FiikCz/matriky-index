@@ -2,9 +2,9 @@
 
 Stav k 25. 11. 2026 (generuje `python tools/prehled.py`).
 
-- **1291 knih** (matrika 1204, sčítání lidu 36, pozemková kniha 23, policejní přihlášky 9, indikační skica stabilního katastru 8, berní rula 3, noviny 2, soupis poddaných 2, kmenové listiny (Musterlisten) 1, urbář 1, kronika 1, náhrobky 1)
+- **1300 knih** (matrika 1213, sčítání lidu 36, pozemková kniha 23, policejní přihlášky 9, indikační skica stabilního katastru 8, berní rula 3, noviny 2, soupis poddaných 2, kmenové listiny (Musterlisten) 1, urbář 1, kronika 1, náhrobky 1)
 - **10 315 stran** převedených strojově (PERO OCR), **2 027 629 řádků** strojového textu – nekontrolovaný, slouží k hledání
-- **54 518 zápisů přečtených očima**: narození 21011, sňatky 9129, úmrtí 23027, převody gruntů 63, soupisy 203, jiné 1056
+- **54 686 zápisů přečtených očima**: narození 21106, sňatky 9170, úmrtí 23059, převody gruntů 63, soupisy 203, jiné 1056
 
 Sloupce: *OCR* = strany a řádky strojového textu, *očima* = zápisy přečtené člověkem nebo modelem se zdrojem a jistotou (N narození, O sňatky, Z úmrtí, P převody gruntů, S soupisy, J jiné). Skeny v indexu nejsou – odkaz vede na portál archivu.
 
@@ -1168,6 +1168,16 @@ Sloupce: *OCR* = strany a řádky strojového textu, *očima* = zápisy přečte
 | [MZA, Batelov, pozemková kniha dominikálních domků (židovské domy) B04900, 1791–1850 (FamilySearch DGS 104715711)](https://www.familysearch.org/search/film/104715711) | pozemková kniha | 1791–1850 |  |  | 4 (J 1 P 3) |
 | [MZA, Batelov, pozemková kniha domů městečka B04888 („Hauptbuch der Gemeinde Battelau“), 1779–1882 (FamilySearch DGS 104818118)](https://www.familysearch.org/search/film/104818118) | pozemková kniha | 1779–1882 |  |  | 4 (P 4) |
 
+## ndk (5)
+
+| kniha | druh | roky | OCR stran | OCR řádků | očima |
+|---|---|---|--:|--:|---|
+| [Berní rula 12, Kraj Hradecký, díl I (edice V. Pešák, Praha 1951)](https://ndk.cz/uuid/uuid:a01e9e00-451f-11e2-9b88-005056827e51) | berní rula | 1654 |  |  | 5 (S 5) |
+| [Berní rula 27, Kraj Prácheňský, díl I (edice A. Haas, Praha 1954)](https://ndk.cz/uuid/uuid:b8718900-451e-11e2-b246-005056827e52) | berní rula | 1654 |  |  | 58 (S 58) |
+| [Berní rula 28, Kraj Prácheňský, díl II (edice A. Haas, Praha 1954)](https://ndk.cz/uuid/uuid:0b4b7220-4520-11e2-b246-005056827e52) | berní rula | 1654 |  |  | 79 (S 79) |
+| [Kraméryusowy Cýs. k. Pražské Posstowské Nowiny, ročník 16 (1804)](https://ndk.cz/view/uuid:b1942b3d-435d-11dd-b505-00145e5790ea) | noviny | 1804 | 24 | 1840 |  |
+| [Kraméryusowy Cýs. k. Pražské Posstowské Nowiny, ročník 17 (1805)](https://ndk.cz/view/uuid:b1942b3e-435d-11dd-b505-00145e5790ea) | noviny | 1805 | 52 | 3940 |  |
+
 ## cuzk (8)
 
 | kniha | druh | roky | OCR stran | OCR řádků | očima |
@@ -1181,23 +1191,28 @@ Sloupce: *OCR* = strany a řádky strojového textu, *očima* = zápisy přečte
 | [Maňovice (Maniowitz), indikační skica 1837, Prácheňský kraj; ves na zvláštním listu ve větším měřítku (Národní archiv, fond Stabilní katastr)](https://ags.cuzk.gov.cz/archiv/openmap.html?typ=skicic&idrastru=PRA380018370) | indikační skica stabilního katastru | 1837 |  |  | 3 (K 3) |
 | [Dol (u Sedlic), indikační skica 1837, Prácheňský kraj (Národní archiv, fond Stabilní katastr)](https://ags.cuzk.gov.cz/archiv/openmap.html?typ=skicic&idrastru=PRA426018370) | indikační skica stabilního katastru | 1837 |  |  | 3 (K 3) |
 
+## nacr (10)
+
+| kniha | druh | roky | OCR stran | OCR řádků | očima |
+|---|---|---|--:|--:|---|
+| [inv. č. 1408 (Nový Bydžov N)](https://vademecum.nacr.cz/vademecum/permalink?xid=425dc3e2-2075-478d-890b-833ced1107cd) | matrika |  |  |  | 1 (N 1) |
+| [inv. č. 1547 (Plzeň, narození 1901–1915)](https://vademecum.nacr.cz/vademecum/permalink?xid=65bd0468-79cf-4bbc-8ec9-e5cd3bacb1f6) | matrika |  |  |  | 1 (N 1) |
+| [inv. č. 2677 (Praha, oddaní 1881)](https://vademecum.nacr.cz/vademecum/permalink?xid=c96bd90d-00c8-49b1-9919-82a9c516939f) | matrika |  |  |  | 1 (O 1) |
+| [inv. č. 2709 (Praha, oddaní 1913)](https://vademecum.nacr.cz/vademecum/permalink?xid=d8b27e9f-a023-4520-9d52-4ce2158cf3f1) | matrika |  |  |  | 2 (O 2) |
+| [inv. č. 2713 (Praha, oddaní 1917)](https://vademecum.nacr.cz/vademecum/permalink?xid=dd5e2abb-1aa6-4b1c-b1b2-fef16f57a3a3) | matrika |  |  |  | 1 (O 1) |
+| [Náchod, inv. č. 1340, N 1866–1873 (s indexem; duplikát, Tom VIII–XI)](https://vademecum.nacr.cz/vademecum/permalink?xid=e0c4568a-a325-4d10-b8d8-64c1dfb403df) | matrika | 1866–1873 |  |  | 1 (N 1) |
+| [Náchod, inv. č. 1341, N 1874–1901 (s indexem)](https://vademecum.nacr.cz/vademecum/permalink?xid=26db411b-4bc5-467e-b248-3b48c7ba5f05) | matrika | 1874–1901 |  |  | 1 (N 1) |
+| [Náchod, inv. č. 1342, N 1900–1940, 1942–1949 (index pro roky 1901–1904)](https://vademecum.nacr.cz/vademecum/permalink?xid=f410698d-1da7-4eef-bd85-c72d9d5442fb) | matrika | 1900–1940 |  |  | 1 (N 1) |
+| [Náchod, inv. č. 1346, O 1874–1901 (s indexem)](https://vademecum.nacr.cz/vademecum/permalink?xid=60877a01-5f64-4055-94ee-a872b7df10bb) | matrika | 1874–1901 |  |  | 1 (O 1) |
+| [Náchod, inv. č. 1352, Z 1900–1902, 1905–1949 (index 1905–1912)](https://vademecum.nacr.cz/vademecum/permalink?xid=07f0ee74-aa22-4e76-b5e4-046e37da47fd) | matrika | 1900–1902, 1905–1949 |  |  | 2 (Z 2) |
+
 ## zob (1)
 
 | kniha | druh | roky | OCR stran | OCR řádků | očima |
 |---|---|---|--:|--:|---|
 | [Židovský hřbitov Batelov – fotodokumentace náhrobků „Batelov Steinová 2012“ (Židovská obec Brno)](https://cemeteries.zob.cz/batelov) | náhrobky | 1748?–1935 |  |  | 442 (Z 442) |
 
-## ndk (5)
-
-| kniha | druh | roky | OCR stran | OCR řádků | očima |
-|---|---|---|--:|--:|---|
-| [Berní rula 12, Kraj Hradecký, díl I (edice V. Pešák, Praha 1951)](https://ndk.cz/uuid/uuid:a01e9e00-451f-11e2-9b88-005056827e51) | berní rula | 1654 |  |  | 5 (S 5) |
-| [Berní rula 27, Kraj Prácheňský, díl I (edice A. Haas, Praha 1954)](https://ndk.cz/uuid/uuid:b8718900-451e-11e2-b246-005056827e52) | berní rula | 1654 |  |  | 58 (S 58) |
-| [Berní rula 28, Kraj Prácheňský, díl II (edice A. Haas, Praha 1954)](https://ndk.cz/uuid/uuid:0b4b7220-4520-11e2-b246-005056827e52) | berní rula | 1654 |  |  | 79 (S 79) |
-| [Kraméryusowy Cýs. k. Pražské Posstowské Nowiny, ročník 16 (1804)](https://ndk.cz/view/uuid:b1942b3d-435d-11dd-b505-00145e5790ea) | noviny | 1804 | 24 | 1840 |  |
-| [Kraméryusowy Cýs. k. Pražské Posstowské Nowiny, ročník 17 (1805)](https://ndk.cz/view/uuid:b1942b3e-435d-11dd-b505-00145e5790ea) | noviny | 1805 | 52 | 3940 |  |
-
-## zaopava (152)
+## zaopava (161)
 
 | kniha | druh | roky | OCR stran | OCR řádků | očima |
 |---|---|---|--:|--:|---|
@@ -1298,24 +1313,25 @@ Sloupce: *OCR* = strany a řádky strojového textu, *očima* = zápisy přečte
 | [N, I-N Rožnov pod Radhoštěm 1796–1841, ř.-kat. fara Rožnov, sign. VM VIII 8, inv. č. 2305](https://digi.archives.cz/da/permalink?xid=be87b0a6-f13c-102f-8255-0050568c0263) | matrika | 1796–1841 |  |  | 4 (N 4) |
 | [N, Z, O Dolní Jasenka, Halenkov, Hovězí, Huslenky, Nový Hrozenkov, Vsetín, Zděchov aj. (N 1694–1727, Z 1708–1723, O 1708–1733), ř.-kat. fara Vsetín, sign. Vs I 2, inv. č. 2368](https://digi.archives.cz/da/permalink?xid=be87d14e-f13c-102f-8255-0050568c0263) | matrika | 1694–1733 |  |  | 3 (N 3) |
 | [N, Z, O, I-O Halenkov, Hovězí, Nový Hrozenkov, Vsetín, Zděchov aj. 1732–1772, ř.-kat. fara Vsetín, sign. Vs I 4, inv. č. 2370](https://digi.archives.cz/da/permalink?xid=be87d3c4-f13c-102f-8255-0050568c0263) | matrika | 1732–1772 |  |  | 1 (O 1) |
-| [N + I-N Halenkov, Hovězí, Nový Hrozenkov 1789–1819, ř.-kat. fara Halenkov, sign. Vs II 1](https://digi.archives.cz/da/permalink?xid=be87de96-f13c-102f-8255-0050568c0263) | matrika | 1789–1819 |  |  | 5 (N 5) |
-| [O + I-O Halenkov 1856–1899, ř.-kat. fara Halenkov, sign. Vs II 11, inv. č. 2403 (farní sv. III)](https://digi.archives.cz/da/permalink?xid=be87e328-f13c-102f-8255-0050568c0263) | matrika | 1856–1899 |  |  | 8 (O 8) |
-| [Z Halenkov 1856–1894, ř.-kat. fara Halenkov, sign. Vs II 12](https://digi.archives.cz/da/permalink?xid=be87e396-f13c-102f-8255-0050568c0263) | matrika | 1856–1894 |  |  | 4 (Z 4) |
-| [O + I-O Nový Hrozenkov 1856–1919, ř.-kat. fara Halenkov, sign. Vs II 13 (farní sv. III)](https://digi.archives.cz/da/permalink?xid=be8f03ba-f13c-102f-8255-0050568c0263) | matrika | 1856–1919 |  |  | 2 (O 2) |
+| [N + I-N Halenkov, Hovězí, Nový Hrozenkov 1789–1819, ř.-kat. fara Halenkov, sign. Vs II 1](https://digi.archives.cz/da/permalink?xid=be87de96-f13c-102f-8255-0050568c0263) | matrika | 1789–1819 |  |  | 6 (N 6) |
+| [O + I-O Halenkov 1856–1899, ř.-kat. fara Halenkov, sign. Vs II 11, inv. č. 2403 (farní sv. III)](https://digi.archives.cz/da/permalink?xid=be87e328-f13c-102f-8255-0050568c0263) | matrika | 1856–1899 |  |  | 9 (O 9) |
+| [Z Halenkov 1856–1894, ř.-kat. fara Halenkov, sign. Vs II 12](https://digi.archives.cz/da/permalink?xid=be87e396-f13c-102f-8255-0050568c0263) | matrika | 1856–1894 |  |  | 8 (Z 8) |
+| [O + I-O Nový Hrozenkov 1856–1919, ř.-kat. fara Halenkov, sign. Vs II 13 (farní sv. III)](https://digi.archives.cz/da/permalink?xid=be8f03ba-f13c-102f-8255-0050568c0263) | matrika | 1856–1919 |  |  | 3 (O 3) |
 | [Z + I-Z Halenkov 1895–1924, ř.-kat. fara Halenkov, sign. Vs II 14, inv. č. 8791 (farní sv. IV)](https://digi.archives.cz/da/permalink?xid=be8f0432-f13c-102f-8255-0050568c0263) | matrika | 1895–1924 |  |  | 2 (Z 2) |
-| [N + I-N Hovězí (vč. Huslenek) 1908–1924, ř.-kat. fara Halenkov, sign. Vs II 18, inv. č. 14 752 (farní sv. V)](https://digi.archives.cz/da/permalink?xid=29e3f91ac933f2f4:-2641c770:149084a24a7:-7ef0) | matrika | 1908–1924 |  |  | 2 (N 2) |
-| [N Halenkov, Hovězí, Nový Hrozenkov 1820–1855, ř.-kat. fara Halenkov, sign. Vs II 2 (rejstřík Vs II 3)](https://digi.archives.cz/da/permalink?xid=be87df0e-f13c-102f-8255-0050568c0263) | matrika | 1820–1855 |  |  | 8 (N 8) |
-| [O + I-O Hovězí (obec), ř.-kat. fara Halenkov, 1918–1949, sign. Vs II 21, inv. č. 14 753 (farní sv. IV)](https://digi.archives.cz/da/permalink?xid=29e3f91ac933f2f4:-2641c770:149084a24a7:-7eed) | matrika | 1918–1949 |  |  | 3 (O 3) |
-| [Z + I-Z Halenkov a Hovězí (obec Hovězí), ř.-kat. fara Halenkov, 1918–1949, sign. Vs II 22, inv. č. 14 754 (farní sv. IV)](https://digi.archives.cz/da/permalink?xid=29e3f91ac933f2f4:-2641c770:149084a24a7:-7eec) | matrika | 1918–1949 |  |  | 3 (Z 3) |
-| [N + I-N Halenkov 1905–1915, ř.-kat. fara Halenkov, sign. Vs II 23, inv. č. 18352 (farní sv. VI)](https://digi.archives.cz/da/permalink?xid=29e3f91ac933f2f4:-517d2fd1:14b4f3473a2:-7fa6) | matrika | 1905–1915 |  |  | 1 (N 1) |
-| [O + I-O Halenkov 1900–1931, ř.-kat. fara Halenkov, sign. Vs II 28 (farní sv. IV)](https://digi.archives.cz/da/permalink?xid=29e3f91ac933f2f4:-517d2fd1:14b4f3473a2:-7fa1) | matrika | 1900–1931 |  |  | 2 (O 2) |
-| [N + I-N Halenkov 1856–1881, ř.-kat. fara Halenkov, sign. Vs II 4, inv. č. 2396](https://digi.archives.cz/da/permalink?xid=be87dff4-f13c-102f-8255-0050568c0263) | matrika | 1856–1881 |  |  | 5 (N 5) |
+| [N + I-N Hovězí (vč. Huslenek) 1908–1924, ř.-kat. fara Halenkov, sign. Vs II 18, inv. č. 14 752 (farní sv. V)](https://digi.archives.cz/da/permalink?xid=29e3f91ac933f2f4:-2641c770:149084a24a7:-7ef0) | matrika | 1908–1924 |  |  | 5 (N 5) |
+| [N Halenkov, Hovězí, Nový Hrozenkov 1820–1855, ř.-kat. fara Halenkov, sign. Vs II 2 (rejstřík Vs II 3)](https://digi.archives.cz/da/permalink?xid=be87df0e-f13c-102f-8255-0050568c0263) | matrika | 1820–1855 |  |  | 23 (N 23) |
+| [O + I-O Hovězí (obec), ř.-kat. fara Halenkov, 1918–1949, sign. Vs II 21, inv. č. 14 753 (farní sv. IV)](https://digi.archives.cz/da/permalink?xid=29e3f91ac933f2f4:-2641c770:149084a24a7:-7eed) | matrika | 1918–1949 |  |  | 4 (O 4) |
+| [Z + I-Z Halenkov a Hovězí (obec Hovězí), ř.-kat. fara Halenkov, 1918–1949, sign. Vs II 22, inv. č. 14 754 (farní sv. IV)](https://digi.archives.cz/da/permalink?xid=29e3f91ac933f2f4:-2641c770:149084a24a7:-7eec) | matrika | 1918–1949 |  |  | 5 (Z 5) |
+| [N + I-N Halenkov 1905–1915, ř.-kat. fara Halenkov, sign. Vs II 23, inv. č. 18352 (farní sv. VI)](https://digi.archives.cz/da/permalink?xid=29e3f91ac933f2f4:-517d2fd1:14b4f3473a2:-7fa6) | matrika | 1905–1915 |  |  | 5 (N 5) |
+| [O + I-O Halenkov 1900–1931, ř.-kat. fara Halenkov, sign. Vs II 28 (farní sv. IV)](https://digi.archives.cz/da/permalink?xid=29e3f91ac933f2f4:-517d2fd1:14b4f3473a2:-7fa1) | matrika | 1900–1931 |  |  | 3 (O 3) |
+| [Z, I-Z Halenkov 1925–1949, sign. Vs II 30, inv. č. 18354 (římskokatolická fara Halenkov)](https://digi.archives.cz/da/permalink?xid=29e3f91ac933f2f4:1f1b0d7c:14b5e388d23:-7fff) | matrika | 1925–1949 |  |  | 2 (Z 2) |
+| [N + I-N Halenkov 1856–1881, ř.-kat. fara Halenkov, sign. Vs II 4, inv. č. 2396](https://digi.archives.cz/da/permalink?xid=be87dff4-f13c-102f-8255-0050568c0263) | matrika | 1856–1881 |  |  | 6 (N 6) |
 | [O + I-O Halenkov, Hovězí, Nový Hrozenkov 1789–1826, ř.-kat. fara Halenkov, sign. Vs II 5](https://digi.archives.cz/da/permalink?xid=be87e06c-f13c-102f-8255-0050568c0263) | matrika | 1789–1826 |  |  | 4 (O 4) |
-| [O + I-O Halenkov, Hovězí, Nový Hrozenkov 1827–1855, ř.-kat. fara Halenkov, sign. Vs II 6, inv. č. 2398](https://digi.archives.cz/da/permalink?xid=be87e0da-f13c-102f-8255-0050568c0263) | matrika | 1827–1855 |  |  | 7 (O 7) |
+| [O + I-O Halenkov, Hovězí, Nový Hrozenkov 1827–1855, ř.-kat. fara Halenkov, sign. Vs II 6, inv. č. 2398](https://digi.archives.cz/da/permalink?xid=be87e0da-f13c-102f-8255-0050568c0263) | matrika | 1827–1855 |  |  | 11 (O 11) |
 | [Z + I-Z Halenkov, Hovězí, Nový Hrozenkov 1789–1819, ř.-kat. fara Halenkov, sign. Vs II 7, inv. č. 2399](https://digi.archives.cz/da/permalink?xid=be87e152-f13c-102f-8255-0050568c0263) | matrika | 1789–1819 |  |  | 1 (Z 1) |
 | [Z Halenkov, Hovězí, Nový Hrozenkov 1820–1855, ř.-kat. fara Halenkov, sign. Vs II 8](https://digi.archives.cz/da/permalink?xid=be87e1ca-f13c-102f-8255-0050568c0263) | matrika | 1820–1855 |  |  | 7 (Z 7) |
 | [N + I-N Halenkov 1882–1894, ř.-kat. fara Halenkov, sign. Vs II 9](https://digi.archives.cz/da/permalink?xid=be87e238-f13c-102f-8255-0050568c0263) | matrika | 1882–1894 |  |  | 1 (N 1) |
-| [N, Z, O + I-N Halenkov, Hovězí, Zděchov 1762–1795, ř.-kat. fara (filiální kostel) Hovězí, sign. Vs IV 1, inv. č. 2412](https://digi.archives.cz/da/permalink?xid=be87e80a-f13c-102f-8255-0050568c0263) | matrika | 1762–1795 |  |  | 6 (N 5 O 1) |
+| [N, Z, O + I-N Halenkov, Hovězí, Zděchov 1762–1795, ř.-kat. fara (filiální kostel) Hovězí, sign. Vs IV 1, inv. č. 2412](https://digi.archives.cz/da/permalink?xid=be87e80a-f13c-102f-8255-0050568c0263) | matrika | 1762–1795 |  |  | 7 (N 6 O 1) |
 | [N Hovězí 1888–1907, sign. Vs IV 12](https://digi.archives.cz/da/permalink?xid=be87ed46-f13c-102f-8255-0050568c0263) | matrika | 1888–1907 |  |  | 2 (N 2) |
 | [Z + I-Z Hovězí 1853–1894, ř.-kat. fara Hovězí, sign. Vs IV 15, inv. č. 2426](https://digi.archives.cz/da/permalink?xid=be87eecc-f13c-102f-8255-0050568c0263) | matrika | 1853–1894 |  |  | 2 (Z 2) |
 | [O Hovězí 1856–1917, sign. Vs IV 17, inv. č. 8792](https://digi.archives.cz/da/permalink?xid=be8f04b4-f13c-102f-8255-0050568c0263) | matrika | 1856–1917 |  |  | 3 (O 3) |
@@ -1330,21 +1346,29 @@ Sloupce: *OCR* = strany a řádky strojového textu, *očima* = zápisy přečte
 | [N Z O Halenkov, Hovězí 1784–1789, ř.-kat. fara Hovězí, sign. Vs IV 9, inv. č. 2420](https://digi.archives.cz/da/permalink?xid=be87ebe8-f13c-102f-8255-0050568c0263) | matrika | 1784–1789 |  |  | 1 (N 1) |
 | [N + I-N Horní Bečva, Prostřední Bečva, Solanec pod Soláněm, Velké Karlovice 1786–1883, ř.-kat. fara Velké Karlovice, sign. Vs IX 2, inv. č. 2476](https://digi.archives.cz/da/permalink?xid=be880808-f13c-102f-8255-0050568c0263) | matrika | 1786–1883 |  |  | 1 (N 1) |
 | [O + I-O Horní Bečva, Prostřední Bečva, Solanec pod Soláněm, Velké Karlovice 1786–1884, ř.-kat. fara Velké Karlovice, sign. Vs IX 5, inv. č. 2479](https://digi.archives.cz/da/permalink?xid=be880966-f13c-102f-8255-0050568c0263) | matrika | 1786–1884 |  |  | 2 (O 2) |
-| [N, Z, O Halenkov, Hovězí, Nový Hrozenkov, Zděchov 1752–1784, ř.-kat. fara Nový Hrozenkov, sign. Vs VI 1, inv. č. 2445](https://digi.archives.cz/da/permalink?xid=be87f84a-f13c-102f-8255-0050568c0263) | matrika | 1752–1784 |  |  | 3 (N 2 O 1) |
-| [Z + I-Z Nový Hrozenkov 1834–1868, ř.-kat. fara Nový Hrozenkov, sign. Vs VI 10, inv. č. 2454](https://digi.archives.cz/da/permalink?xid=be87fcaa-f13c-102f-8255-0050568c0263) | matrika | 1834–1868 |  |  | 3 (Z 3) |
-| [N + I-N Nový Hrozenkov 1856–1900, ř.-kat. fara Halenkov, sign. Vs VI 11, inv. č. 2455 (farní sv. III)](https://digi.archives.cz/da/permalink?xid=be87fd18-f13c-102f-8255-0050568c0263) | matrika | 1856–1900 |  |  | 1 (N 1) |
-| [O + I-O Nový Hrozenkov 1883–1902, ř.-kat. fara Nový Hrozenkov, sign. Vs VI 15 (farní Kn. IV)](https://digi.archives.cz/da/permalink?xid=be87fed0-f13c-102f-8255-0050568c0263) | matrika | 1883–1902 |  |  | 2 (O 2) |
-| [Z + I-Z Nový Hrozenkov 1869–1889, ř.-kat. fara Nový Hrozenkov, sign. Vs VI 17 (inv. č. 2461)](https://digi.archives.cz/da/permalink?xid=be87ffb6-f13c-102f-8255-0050568c0263) | matrika | 1869–1889 |  |  | 1 (Z 1) |
-| [N + I-N Nový Hrozenkov 1784–1819, ř.-kat. fara Nový Hrozenkov, sign. Vs VI 2 (inv. č. 2446)](https://digi.archives.cz/da/permalink?xid=be87f912-f13c-102f-8255-0050568c0263) | matrika | 1784–1819 |  |  | 1 (N 1) |
-| [O + I-O Nový Hrozenkov 1903–1923, ř.-kat. fara Nový Hrozenkov, sign. Vs VI 27 (farní Tomus V)](https://digi.archives.cz/da/permalink?xid=29e3f91ac933f2f4:2c7af293:146ec53500c:-7eba) | matrika | 1903–1923 |  |  | 1 (O 1) |
-| [O + I-O Nový Hrozenkov 1939–1946, ř.-kat. fara Nový Hrozenkov, sign. Vs VI 29 (farní sv. 7)](https://digi.archives.cz/da/permalink?xid=29e3f91ac933f2f4:2c7af293:146ec53500c:-7eb8) | matrika | 1939–1946 |  |  | 1 (O 1) |
-| [N + I-N Nový Hrozenkov 1820–1849, ř.-kat. fara Nový Hrozenkov, sign. Vs VI 3 (inv. č. 2447)](https://digi.archives.cz/da/permalink?xid=be87f98a-f13c-102f-8255-0050568c0263) | matrika | 1820–1849 |  |  | 1 (N 1) |
-| [Z + I-Z Nový Hrozenkov 1902–1931, ř.-kat. fara Nový Hrozenkov, sign. Vs VI 31 (inv. č. 13159)](https://digi.archives.cz/da/permalink?xid=29e3f91ac933f2f4:2c7af293:146ec53500c:-7eb6) | matrika | 1902–1931 |  |  | 2 (Z 2) |
-| [N + I-N Nový Hrozenkov 1850–1864, ř.-kat. fara Nový Hrozenkov, sign. Vs VI 5, inv. č. 2449](https://digi.archives.cz/da/permalink?xid=be87fa70-f13c-102f-8255-0050568c0263) | matrika | 1850–1864 |  |  | 1 (N 1) |
-| [N + I-N Nový Hrozenkov 1865–1873, ř.-kat. fara Nový Hrozenkov, sign. Vs VI 6, inv. č. 2450](https://digi.archives.cz/da/permalink?xid=be87fade-f13c-102f-8255-0050568c0263) | matrika | 1865–1873 |  |  | 5 (N 5) |
-| [O + I-O Nový Hrozenkov 1784–1849, ř.-kat. fara Nový Hrozenkov, sign. Vs VI 7, inv. č. 2451](https://digi.archives.cz/da/permalink?xid=be87fb56-f13c-102f-8255-0050568c0263) | matrika | 1784–1849 |  |  | 10 (O 10) |
-| [O + I-O Nový Hrozenkov 1850–1882, ř.-kat. fara Nový Hrozenkov, sign. Vs VI 8, inv. č. 2452](https://digi.archives.cz/da/permalink?xid=be87fbc4-f13c-102f-8255-0050568c0263) | matrika | 1850–1882 |  |  | 4 (O 4) |
-| [Z, I-Z Nový Hrozenkov 1784–1833, ř.-kat. fara Nový Hrozenkov, sign. Vs VI 9, inv. č. 2453](https://digi.archives.cz/da/permalink?xid=be87fc32-f13c-102f-8255-0050568c0263) | matrika | 1784–1833 |  |  | 3 (Z 3) |
+| [N, Z, O Halenkov, Hovězí, Nový Hrozenkov, Zděchov 1752–1784, ř.-kat. fara Nový Hrozenkov, sign. Vs VI 1, inv. č. 2445](https://digi.archives.cz/da/permalink?xid=be87f84a-f13c-102f-8255-0050568c0263) | matrika | 1752–1784 |  |  | 10 (N 7 O 3) |
+| [Z + I-Z Nový Hrozenkov 1834–1868, ř.-kat. fara Nový Hrozenkov, sign. Vs VI 10, inv. č. 2454](https://digi.archives.cz/da/permalink?xid=be87fcaa-f13c-102f-8255-0050568c0263) | matrika | 1834–1868 |  |  | 8 (Z 8) |
+| [N + I-N Nový Hrozenkov 1856–1900, ř.-kat. fara Halenkov, sign. Vs VI 11, inv. č. 2455 (farní sv. III)](https://digi.archives.cz/da/permalink?xid=be87fd18-f13c-102f-8255-0050568c0263) | matrika | 1856–1900 |  |  | 2 (N 2) |
+| [N, I-N Nový Hrozenkov 1873–1892, sign. Vs VI 12, inv. č. 2456 (římskokatolická fara Nový Hrozenkov)](https://digi.archives.cz/da/permalink?xid=be87fd86-f13c-102f-8255-0050568c0263) | matrika | 1873–1892 |  |  | 8 (N 8) |
+| [N, I-N Nový Hrozenkov 1893–1896, sign. Vs VI 13, inv. č. 2457 (římskokatolická fara Nový Hrozenkov)](https://digi.archives.cz/da/permalink?xid=be87fdfe-f13c-102f-8255-0050568c0263) | matrika | 1893–1896 |  |  | 2 (N 2) |
+| [N, I-N Nový Hrozenkov 1897–1901, sign. Vs VI 14, inv. č. 2458 (římskokatolická fara Nový Hrozenkov)](https://digi.archives.cz/da/permalink?xid=be87fe62-f13c-102f-8255-0050568c0263) | matrika | 1897–1901 |  |  | 3 (N 3) |
+| [O + I-O Nový Hrozenkov 1883–1902, ř.-kat. fara Nový Hrozenkov, sign. Vs VI 15 (farní Kn. IV)](https://digi.archives.cz/da/permalink?xid=be87fed0-f13c-102f-8255-0050568c0263) | matrika | 1883–1902 |  |  | 6 (O 6) |
+| [Z + I-Z Nový Hrozenkov 1869–1889, ř.-kat. fara Nový Hrozenkov, sign. Vs VI 17 (inv. č. 2461)](https://digi.archives.cz/da/permalink?xid=be87ffb6-f13c-102f-8255-0050568c0263) | matrika | 1869–1889 |  |  | 6 (Z 6) |
+| [Z, I-Z Nový Hrozenkov 1890–1901, sign. Vs VI 18, inv. č. 2462 (římskokatolická fara Nový Hrozenkov)](https://digi.archives.cz/da/permalink?xid=be880024-f13c-102f-8255-0050568c0263) | matrika | 1890–1901 |  |  | 3 (Z 3) |
+| [N + I-N Nový Hrozenkov 1784–1819, ř.-kat. fara Nový Hrozenkov, sign. Vs VI 2 (inv. č. 2446)](https://digi.archives.cz/da/permalink?xid=be87f912-f13c-102f-8255-0050568c0263) | matrika | 1784–1819 |  |  | 13 (N 13) |
+| [N, I-N Nový Hrozenkov 1902–1912, sign. Vs VI 20, inv. č. 13156 (římskokatolická fara Nový Hrozenkov)](https://digi.archives.cz/da/permalink?xid=29e3f91ac933f2f4:2c7af293:146ec53500c:-7ec1) | matrika | 1902–1912 |  |  | 4 (N 4) |
+| [N, I-N Nový Hrozenkov 1913–1921, sign. Vs VI 21, inv. č. 13837 (římskokatolická fara Nový Hrozenkov)](https://digi.archives.cz/da/permalink?xid=29e3f91ac933f2f4:2c7af293:146ec53500c:-7ec0) | matrika | 1913–1921 |  |  | 6 (N 6) |
+| [O + I-O Nový Hrozenkov 1903–1923, ř.-kat. fara Nový Hrozenkov, sign. Vs VI 27 (farní Tomus V)](https://digi.archives.cz/da/permalink?xid=29e3f91ac933f2f4:2c7af293:146ec53500c:-7eba) | matrika | 1903–1923 |  |  | 3 (O 3) |
+| [O, I-O Nový Hrozenkov 1924–1939, sign. Vs VI 28, inv. č. 13158 (římskokatolická fara Nový Hrozenkov)](https://digi.archives.cz/da/permalink?xid=29e3f91ac933f2f4:2c7af293:146ec53500c:-7eb9) | matrika | 1924–1939 |  |  | 1 (O 1) |
+| [O + I-O Nový Hrozenkov 1939–1946, ř.-kat. fara Nový Hrozenkov, sign. Vs VI 29 (farní sv. 7)](https://digi.archives.cz/da/permalink?xid=29e3f91ac933f2f4:2c7af293:146ec53500c:-7eb8) | matrika | 1939–1946 |  |  | 3 (O 3) |
+| [N + I-N Nový Hrozenkov 1820–1849, ř.-kat. fara Nový Hrozenkov, sign. Vs VI 3 (inv. č. 2447)](https://digi.archives.cz/da/permalink?xid=be87f98a-f13c-102f-8255-0050568c0263) | matrika | 1820–1849 |  |  | 25 (N 25) |
+| [Z + I-Z Nový Hrozenkov 1902–1931, ř.-kat. fara Nový Hrozenkov, sign. Vs VI 31 (inv. č. 13159)](https://digi.archives.cz/da/permalink?xid=29e3f91ac933f2f4:2c7af293:146ec53500c:-7eb6) | matrika | 1902–1931 |  |  | 9 (Z 9) |
+| [Z, I-Z Nový Hrozenkov 1932–1949, sign. Vs VI 32, inv. č. 14749 (římskokatolická fara Nový Hrozenkov)](https://digi.archives.cz/da/permalink?xid=29e3f91ac933f2f4:2c7af293:146ec53500c:-7eb5) | matrika | 1932–1949 |  |  | 3 (Z 3) |
+| [N + I-N Nový Hrozenkov 1850–1864, ř.-kat. fara Nový Hrozenkov, sign. Vs VI 5, inv. č. 2449](https://digi.archives.cz/da/permalink?xid=be87fa70-f13c-102f-8255-0050568c0263) | matrika | 1850–1864 |  |  | 4 (N 4) |
+| [N + I-N Nový Hrozenkov 1865–1873, ř.-kat. fara Nový Hrozenkov, sign. Vs VI 6, inv. č. 2450](https://digi.archives.cz/da/permalink?xid=be87fade-f13c-102f-8255-0050568c0263) | matrika | 1865–1873 |  |  | 7 (N 7) |
+| [O + I-O Nový Hrozenkov 1784–1849, ř.-kat. fara Nový Hrozenkov, sign. Vs VI 7, inv. č. 2451](https://digi.archives.cz/da/permalink?xid=be87fb56-f13c-102f-8255-0050568c0263) | matrika | 1784–1849 |  |  | 21 (O 21) |
+| [O + I-O Nový Hrozenkov 1850–1882, ř.-kat. fara Nový Hrozenkov, sign. Vs VI 8, inv. č. 2452](https://digi.archives.cz/da/permalink?xid=be87fbc4-f13c-102f-8255-0050568c0263) | matrika | 1850–1882 |  |  | 15 (O 15) |
+| [Z, I-Z Nový Hrozenkov 1784–1833, ř.-kat. fara Nový Hrozenkov, sign. Vs VI 9, inv. č. 2453](https://digi.archives.cz/da/permalink?xid=be87fc32-f13c-102f-8255-0050568c0263) | matrika | 1784–1833 |  |  | 4 (Z 4) |
 | [Dubicko (fara), O, I-O Bohuslavice, Dubicko, Hrabová, Třeština 1810–1862, sign. Zá IV 10, inv. č. 8385](https://digi.archives.cz/da/permalink/be97aaf6-f13c-102f-8255-0050568c0263) | matrika | 1810–1862 |  |  | 3 (O 3) |
 | [Dubicko (fara), O Bohuslavice, Dubicko, Hrabová, Třeština 1863–1898, sign. Zá IV 11, inv. č. 8386](https://digi.archives.cz/da/permalink/be97a9fc-f13c-102f-8255-0050568c0263) | matrika | 1863–1898 |  |  | 2 (O 2) |
 | [Dubicko (fara), Z, I-Z Bohuslavice, Dubicko, Hrabová, Třeština 1810–1871, sign. Zá IV 14, inv. č. 8389](https://digi.archives.cz/da/permalink/be97ac86-f13c-102f-8255-0050568c0263) | matrika | 1810–1871 |  |  | 1 (Z 1) |
@@ -1353,18 +1377,3 @@ Sloupce: *OCR* = strany a řádky strojového textu, *očima* = zápisy přečte
 | [Dubicko (fara), N, I-N Bohuslavice, Dubicko, Hrabová, Třeština 1810–1849, sign. Zá IV 5, inv. č. 8380](https://digi.archives.cz/da/permalink/be97a79a-f13c-102f-8255-0050568c0263) | matrika | 1810–1849 |  |  | 3 (N 3) |
 | [Dubicko (fara), N, I-N Bohuslavice, Dubicko, Hrabová, Třeština 1850–1898, sign. Zá IV 7, inv. č. 8382](https://digi.archives.cz/da/permalink/be97f934-f13c-102f-8255-0050568c0263) | matrika | 1850–1898 |  |  | 7 (N 7) |
 | [Dubicko (fara), O, I-O Bohuslavice, Brníčko, Dubicko, Hrabová, Kolšov, Lesnice, Strupšín, Třeština 1784–1809, sign. Zá IV 9, inv. č. 8384](https://digi.archives.cz/da/permalink/be97aa74-f13c-102f-8255-0050568c0263) | matrika | 1784–1809 |  |  | 1 (O 1) |
-
-## nacr (10)
-
-| kniha | druh | roky | OCR stran | OCR řádků | očima |
-|---|---|---|--:|--:|---|
-| [inv. č. 1408 (Nový Bydžov N)](https://vademecum.nacr.cz/vademecum/permalink?xid=425dc3e2-2075-478d-890b-833ced1107cd) | matrika |  |  |  | 1 (N 1) |
-| [inv. č. 1547 (Plzeň, narození 1901–1915)](https://vademecum.nacr.cz/vademecum/permalink?xid=65bd0468-79cf-4bbc-8ec9-e5cd3bacb1f6) | matrika |  |  |  | 1 (N 1) |
-| [inv. č. 2677 (Praha, oddaní 1881)](https://vademecum.nacr.cz/vademecum/permalink?xid=c96bd90d-00c8-49b1-9919-82a9c516939f) | matrika |  |  |  | 1 (O 1) |
-| [inv. č. 2709 (Praha, oddaní 1913)](https://vademecum.nacr.cz/vademecum/permalink?xid=d8b27e9f-a023-4520-9d52-4ce2158cf3f1) | matrika |  |  |  | 2 (O 2) |
-| [inv. č. 2713 (Praha, oddaní 1917)](https://vademecum.nacr.cz/vademecum/permalink?xid=dd5e2abb-1aa6-4b1c-b1b2-fef16f57a3a3) | matrika |  |  |  | 1 (O 1) |
-| [Náchod, inv. č. 1340, N 1866–1873 (s indexem; duplikát, Tom VIII–XI)](https://vademecum.nacr.cz/vademecum/permalink?xid=e0c4568a-a325-4d10-b8d8-64c1dfb403df) | matrika | 1866–1873 |  |  | 1 (N 1) |
-| [Náchod, inv. č. 1341, N 1874–1901 (s indexem)](https://vademecum.nacr.cz/vademecum/permalink?xid=26db411b-4bc5-467e-b248-3b48c7ba5f05) | matrika | 1874–1901 |  |  | 1 (N 1) |
-| [Náchod, inv. č. 1342, N 1900–1940, 1942–1949 (index pro roky 1901–1904)](https://vademecum.nacr.cz/vademecum/permalink?xid=f410698d-1da7-4eef-bd85-c72d9d5442fb) | matrika | 1900–1940 |  |  | 1 (N 1) |
-| [Náchod, inv. č. 1346, O 1874–1901 (s indexem)](https://vademecum.nacr.cz/vademecum/permalink?xid=60877a01-5f64-4055-94ee-a872b7df10bb) | matrika | 1874–1901 |  |  | 1 (O 1) |
-| [Náchod, inv. č. 1352, Z 1900–1902, 1905–1949 (index 1905–1912)](https://vademecum.nacr.cz/vademecum/permalink?xid=07f0ee74-aa22-4e76-b5e4-046e37da47fd) | matrika | 1900–1902, 1905–1949 |  |  | 2 (Z 2) |
